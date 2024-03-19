@@ -7,3 +7,4 @@
    
   ![Regresion](img/1.png)
 
+2. 
