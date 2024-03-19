@@ -36,7 +36,7 @@ En resumen, el modelo utiliza las emisiones de gases de efecto invernadero en 20
 
 En resumen, estos resultados indican un problema de sobreajuste, donde el modelo se ajusta demasiado a los datos de entrenamiento y no generaliza bien a nuevos datos. Es importante tomar medidas para abordar este problema, como la regularización del modelo, la selección de características o la recopilación de más datos, para mejorar su capacidad de generalización.
 
-![Regresion](img/5.png)
+![Regresion](img/6.png)
 ## Trabajo Futuro
 Se tiene como objetivo s futuro:
 1. Poder tomar en cuenta el porcentaje de poblacion, relacionada a las emisiones anuales 
