@@ -1,11 +1,9 @@
-## Backend(Python) con Django - Sesion 1
+## Emisión de Gases de Efecto Invernadero a nivel Nacional del 2017 al 2019
 
-<span style="color: cyan">Para generar un entorno virtual seguimos los siguientes pasos:</span>
+<span style="color: cyan">Implementación de un modelo regresion lineal para hacer el pronosticp de emisiones 2019</span>
 
-1. Pipenv administra las dependencias por proyecto, por lo que es mejor usar Pipenv dentro del directorio de su proyecto. Para instalar paquetes, cambie al directorio de su proyecto y ejecute:
+1. Un modelo de regresión lineal es un modelo estadístico que se utiliza para entender la relación entre una variable dependiente (también conocida como variable de respuesta o variable objetivo) y una o más variables independientes (también conocidas como variables predictoras o características). El objetivo principal de la regresión lineal es modelar esta relación de una manera que permita predecir el valor de la variable dependiente basándose en los valores de las variables independientes.
    
-       $ cd project 
-       $ pipenv install requests
-
-  ![Aliados](img/1.PNG)
+   
+  ![Regresion](img/1.PNG)
 
