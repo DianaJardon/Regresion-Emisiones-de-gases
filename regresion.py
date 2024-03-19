@@ -42,4 +42,4 @@ print("Pruebas: MSE =", MSE_test)
 df_predicciones = pd.DataFrame({'valor_real': Y_test, 'prediccion': y_test_predict})
 df_predicciones = df_predicciones.reset_index(drop=True)
 df_predicciones.head(10)  # Mostrar las primeras 10 filas del DataFrame de predicciones
-
+print(df_predicciones)
